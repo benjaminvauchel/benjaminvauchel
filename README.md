@@ -40,8 +40,8 @@
 ---
 
 ### 📫 Get in Touch
-- [![Email](https://img.shields.io/badge/Email-benjamin.vauchel.51@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benjamin.vauchel.51@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-vauchel/)
+[![Email](https://img.shields.io/badge/Email-benjamin.vauchel.51@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benjamin.vauchel.51@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-vauchel/)  
 
 ---
 
