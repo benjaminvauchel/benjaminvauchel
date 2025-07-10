@@ -41,7 +41,7 @@
 
 ### 📫 Get in Touch
 [![Email](https://img.shields.io/badge/Email-benjamin.vauchel.51@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benjamin.vauchel.51@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-vauchel/)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/benjamin-vauchel/)  
 
 ---
 
