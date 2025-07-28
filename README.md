@@ -22,14 +22,14 @@
 - **[Arithmetic Unit](https://github.com/benjaminvauchel/arithmetic-unit)** – VHDL implementation of a configurable arithmetic unit with both combinational and sequential designs.  
 
 ### **Embedded Design**
-- **[Autonomous Robot Navigation System](https://github.com/benjaminvauchel/pic18-robot-caniche-sonar)** – An autonomous robot navigation system using a PIC18F2520 microcontroller, featuring sonar-based target detection and obstacle avoidance with real-time control.  
-- **[Capacitive Metronome](https://github.com/benjaminvauchel/capacitive-metronome)** – A capacitive metronome built on STM32, using touch and proximity sensing for tempo control, with real-time BPM adjustment and audio output.  
+- **[Autonomous Robot Navigation System](https://github.com/benjaminvauchel/pic18-robot-caniche-sonar)** – Autonomous robot navigation system using a PIC18F2520 microcontroller, featuring sonar-based target detection and obstacle avoidance with real-time control.  
+- **[Capacitive Metronome](https://github.com/benjaminvauchel/capacitive-metronome)** – Capacitive metronome built on STM32, using touch and proximity sensing for tempo control, with real-time BPM adjustment and audio output.  
 - **Remote-Controlled Robots with Automatic Parking Feature** (Upcoming) – Fleet of remotely controlled robots, each equipped with autonomous parking capabilities that allow them to position themselves next to a designated pilot robot through inter-robot communication via Zigbee, and built around STM32F103 microcontrollers based on the ARM Cortex-M3 core.  
 
 ### **Machine Learning**
-- **[Hopfield Pattern Recognition](https://github.com/benjaminvauchel/hopfield-pattern-recognition)** – A from-scratch Python implementation of a Hopfield neural network for associative memory and pattern recognition, evaluating clean and noisy digit recalls using Hebbian learning and energy-based convergence.  
-- **[ART1 Pattern Recognition](https://github.com/benjaminvauchel/art-pattern-recognition)** – A from-scratch implementation of an ART1 neural network for binary letter classification, featuring noise robustness, vigilance tuning, and a penalty-based similarity enhancement.  
-- **[MLP 2D Classifier](https://github.com/benjaminvauchel/mlp-2d-classifier)** – A from-scratch Python implementation of a feedforward neural network for 2D nonlinear binary classification, showcasing backpropagation, optimization, and decision boundary visualization.  
+- **[Hopfield Pattern Recognition](https://github.com/benjaminvauchel/hopfield-pattern-recognition)** – From-scratch Python implementation of a Hopfield neural network for associative memory and pattern recognition, evaluating clean and noisy digit recalls using Hebbian learning and energy-based convergence.  
+- **[ART1 Pattern Recognition](https://github.com/benjaminvauchel/art-pattern-recognition)** – From-scratch implementation of an ART1 neural network for binary letter classification, featuring noise robustness, vigilance tuning, and a penalty-based similarity enhancement.  
+- **[MLP 2D Classifier](https://github.com/benjaminvauchel/mlp-2d-classifier)** – From-scratch Python implementation of a feedforward neural network for 2D nonlinear binary classification, showcasing backpropagation, optimization, and decision boundary visualization.  
 - **[ML Algorithms Comparison on MNIST dataset](https://github.com/benjaminvauchel/ml-algorithms-comparison-mnist)** – A comparative study of handwritten digit classification on the MNIST dataset using various traditional machine learning models and neural networks implemented in a Jupyter Notebook.  
 
 ### **Other Projects**
