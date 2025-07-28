@@ -17,6 +17,7 @@
 ## 🚀 Featured Projects
 
 ### **FPGA (RTL Design)**
+- **[RISC-V CPU](https://github.com/benjaminvauchel/riscv-rv32i)** – VHDL implementation of a 5-stage RISC-V CPU *partially* supporting the RV32I instruction set.
 - **[ASCON-128 Algorithm](https://github.com/benjaminvauchel/ascon128-vhdl)** – Full VHDL implementation of the ASCON-128 authenticated encryption algorithm, including all core transformations and a top-level FSM.  
 - **[Arithmetic Unit](https://github.com/benjaminvauchel/arithmetic-unit)** – VHDL implementation of a configurable arithmetic unit with both combinational and sequential designs.  
 
