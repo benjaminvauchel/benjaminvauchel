@@ -36,8 +36,8 @@
 - **[Blockchain-Based System for Secure Talent Credential Verification](https://github.com/benjaminvauchel/hyperledger-fabric)** – A Hyperledger Fabric-based blockchain system for secure, decentralized verification and management of academic and professional credentials with role-based access and smart contracts. Includes a REST API (golang) and a minimal user interface (React + Vite, JS).  
 - **[Environment-Photodiode Interaction Simulation](https://github.com/benjaminvauchel/env-photodiode-interaction)** – A bio-inspired robot vision system simulation using photodiodes to navigate grayscale-striped environments in MATLAB and Simulink.  
 - **[DCT Image Compression](https://github.com/benjaminvauchel/dct-image-compression)** – A MATLAB project for image compression using 1D and 2D Discrete Cosine Transform, featuring JPEG-style quantization and zigzag scanning.
-- **[ISMIN Syllabus Analysis](https://github.com/benjaminvauchel/ismin-syllabus-analysis)** – (French) Graph-based analysis of course prerequisites and dependencies for ISMIN curriculum in C.
-- **[Simple Queue Simulation](https://github.com/benjaminvauchel/queue-simulation)** – (French) Discrete-event queue modeling in C, with a performance evaluation across different parameters.  
+- **[ISMIN Syllabus Analysis](https://github.com/benjaminvauchel/ismin-syllabus-analysis)** (French) – Graph-based analysis of course prerequisites and dependencies for ISMIN curriculum in C.
+- **[Simple Queue Simulation](https://github.com/benjaminvauchel/queue-simulation)** (French) – Discrete-event queue modeling in C, with a performance evaluation across different parameters.  
 
 ---
 
